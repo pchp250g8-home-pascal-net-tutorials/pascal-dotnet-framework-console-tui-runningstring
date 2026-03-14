@@ -1,4 +1,4 @@
-RunningString. Pascal Tutorials. Platform DotNet FrameWork. TUI. Advanced Console Features. Console Application. 
+RunningString. Pascal Tutorials. Platform DotNet FrameWork. TUI. Advanced Console Features. Console Application.
 The program does the following:
   1. Creates a standard terminal size window (80 columns, 25 rows).
   2. Clears the created window.
